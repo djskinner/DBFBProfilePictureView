@@ -1,6 +1,4 @@
-
-<!-- saved from url=(0105)https://raw.github.com/CocoaPods/Specs/master/DBFBProfilePictureView/1.1.0/DBFBProfilePictureView.podspec -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css"></style></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">Pod::Spec.new do |s|
+Pod::Spec.new do |s|
   s.name     = 'DBFBProfilePictureView'
   s.version  = '1.1.0'
   s.platform = :ios, '5.0'
@@ -15,4 +13,3 @@
   s.dependency 'Facebook-iOS-SDK', '3.1.1'
   s.framework    = 'QuartzCore'
 end
-</pre></body></html>
