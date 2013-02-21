@@ -43,7 +43,6 @@
 
 @property (readonly, nonatomic) NSString *imageQueryParamString;
 @property (strong, nonatomic) NSString *previousImageQueryParamString;
-@property (strong, nonatomic) UIImageView *imageView;
 
 @property (strong) AFImageRequestOperation* imageRequestOperation;
 
